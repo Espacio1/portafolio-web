@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'montserrat', sans-serif;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    background-attachment: fixed;
+    background-size: cover;
+}
+div {
+    background-color: lightslategray;
+}
